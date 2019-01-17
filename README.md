@@ -1,3 +1,9 @@
+## Requirements
+* Python >= 3.5
+## Installation
+`pip install flask-srd`
+
+## DEMO
 ```python
 from flask_srd import Consul,ConsulService
 from flask import Flask
