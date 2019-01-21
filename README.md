@@ -1,5 +1,5 @@
 ## Requirements
-* Python >= 3.5
+* Python >= 3.6
 ## Installation
 `pip install flask-srd`
 
